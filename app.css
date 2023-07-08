@@ -3,7 +3,7 @@ body{
     padding: 0;
     width:100vw;
     height: 100vh;
-    background-image: url("https://github.com/vinamra1603/Huffman-Encoding/blob/main/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg");
+    background-image: url("/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg");
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
